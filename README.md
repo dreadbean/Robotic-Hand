@@ -1,2 +1,3 @@
 # Robotic-Hand
-HAnd
+Hand
+
